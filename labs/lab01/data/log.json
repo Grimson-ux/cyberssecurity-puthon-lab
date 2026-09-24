@@ -1,0 +1,35 @@
+[
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-09-24T20:29:10.376978",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-09-24T20:29:10.378125",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-09-24T20:29:10.389931",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
+    }
+]
