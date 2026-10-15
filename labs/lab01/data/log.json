@@ -31,5 +31,170 @@
             "Password123"
         ],
         "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-09-24T21:31:57.334070",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-09-24T21:31:57.361427",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-09-24T21:31:57.384047",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-09-25T14:30:54.480763",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-09-25T14:30:54.482289",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-09-25T14:30:54.497428",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-10-02T09:58:46.942572",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-10-02T09:58:46.960390",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-10-02T09:58:46.983536",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-10-02T10:08:47.251091",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-10-02T10:08:47.277340",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-10-02T10:08:47.305248",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "red_team_lead",
+        "result": true,
+        "timestamp": "2026-10-02T10:34:56.538531",
+        "args": [
+            "red_team_lead",
+            "RedTeam#2026"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student_intern",
+        "result": false,
+        "timestamp": "2026-10-02T10:34:56.555394",
+        "args": [
+            "student_intern",
+            "WrongPassword"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": false,
+        "timestamp": "2026-10-02T10:34:56.574503",
+        "args": [
+            "unknown_user",
+            "Password123"
+        ],
+        "kwargs": {}
     }
 ]

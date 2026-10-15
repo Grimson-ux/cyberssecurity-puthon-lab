@@ -1,0 +1,34 @@
+{
+    "total_passwords": 44,
+    "weak_passwords": 10,
+    "weak_percentage": 22.73,
+    "minimum_length": 8,
+    "average_length": 9.98,
+    "top_masks": [
+        {
+            "mask": "UlLdS",
+            "count": 16,
+            "percentage": 36.36
+        },
+        {
+            "mask": "LLLL",
+            "count": 10,
+            "percentage": 22.73
+        },
+        {
+            "mask": "LdS",
+            "count": 4,
+            "percentage": 9.09
+        },
+        {
+            "mask": "dddd",
+            "count": 3,
+            "percentage": 6.82
+        },
+        {
+            "mask": "LdLd",
+            "count": 2,
+            "percentage": 4.55
+        }
+    ]
+}

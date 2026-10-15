@@ -44,9 +44,14 @@ def create_users(users_list):
     with USERS_FILE.open("w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
 
+
         for username, password in users_list:
             user = create_user(username, password)
+            
             writer.writerow(user)
+           
+            
+            
 
 
 def load_users():
@@ -131,6 +136,7 @@ def main():
         ("malware_analyst", "Malware#2026"),
         ("soc_analyst", "SocTeam#2026"),
         ("pentest_user", "Pentest#2026"),
+        ("","111111"),
     )
 
     try:

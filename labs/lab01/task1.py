@@ -18,6 +18,8 @@ passwords = [
     "temp123",
     "Pr0t3ct@Data",
     "default",
+    "glitcher",
+    "Gl1tcher"
 ]
 
 criteria = {
